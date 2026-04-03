@@ -1,0 +1,137 @@
+{
+  "Playfield": [
+    {
+      "CardFace": 6,
+      "CardSuit": 0,
+      "Position": {
+        "x": 156,
+        "y": 438
+      },
+      "isOpen": true,
+      "OpenConditions": {
+        "Cards": []
+      },
+      "children": [
+        {
+          "CardFace": 12,
+          "CardSuit": 0,
+          "Position": {
+            "x": 125,
+            "y": 586
+          },
+          "isOpen": false,
+          "OpenConditions": {
+            "Cards": [
+              {
+                "CardFace": 6,
+                "CardSuit": 0
+              }
+            ]
+          },
+          "children": [
+            {
+              "CardFace": 11,
+              "CardSuit": 0,
+              "Position": {
+                "x": 180,
+                "y": 596
+              },
+              "isOpen": false,
+              "OpenConditions": {
+                "Cards": [
+                  {
+                    "CardFace": 12,
+                    "CardSuit": 0
+                  }
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "CardFace": 9,
+          "CardSuit": 0,
+          "Position": {
+            "x": 190,
+            "y": 556
+          },
+          "isOpen": false,
+          "OpenConditions": {
+            "Cards": [
+              {
+                "CardFace": 12,
+                "CardSuit": 0
+              }
+            ]
+          },
+          "children": []
+        }
+      ]
+    },
+
+    
+    {
+      "CardFace": 3,
+      "CardSuit": 1,
+      "isOpen": true,
+      "Position": {
+        "x": 187,
+        "y": 262
+      },
+      "OpenConditions": {
+        "Cards": []
+      },
+      "children": []
+    },
+
+
+    {
+      "CardFace": 2,
+      "CardSuit": 0,
+      "Position": {
+        "x": 313,
+        "y": 262
+      },
+      "isOpen": true,
+      "OpenConditions": {
+        "Cards": []
+      },
+      "children": []
+    },
+
+
+    {
+      "CardFace": 1,
+      "CardSuit": 3,
+      "Position": {
+        "x": 334,
+        "y": 438
+      },
+      "isOpen": true,
+      "OpenConditions": {
+        "Cards": []
+      },
+      "children": [
+          {
+          "CardFace": 7,
+          "CardSuit": 0,
+          "Position": {
+            "x": 375,
+            "y": 576
+          },
+          "isOpen": false,
+          "OpenConditions": {
+            "Cards": [
+              {
+                "CardFace": 1,
+                "CardSuit": 3
+              }
+            ]
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

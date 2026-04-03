@@ -3,9 +3,7 @@
 这是一个 Cocos2d-x 开发的卡片消消乐游戏 🎮
 
 ## 游戏演示
-<video width="100%" controls>
-  <source src="QQ202643-161916-HD.mp4" type="video/mp4">
-</video>
+<!-- Failed to upload "QQ202643-161916-HD.mp4" -->
 
 ## 项目结构
 - `Classes/`：游戏核心代码
